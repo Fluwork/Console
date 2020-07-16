@@ -1,0 +1,9 @@
+/.vscode/
+/.idea/
+
+/vendor/
+/var/
+phpunit.xml
+phpcs.xml
+phpunit-watcher.yml
+.phpunit.result.cache
